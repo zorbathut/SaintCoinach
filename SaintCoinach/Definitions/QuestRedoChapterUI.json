@@ -41,14 +41,6 @@
     {
       "index": 7,
       "name": "ChapterName"
-    },
-    {
-      "index": 7,
-      "name": "ChapterPart"
-    },
-    {
-      "index": 6,
-      "name": "Transient"
     }
   ]
 }
